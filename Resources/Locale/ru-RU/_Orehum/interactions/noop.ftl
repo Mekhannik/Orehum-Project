@@ -11,7 +11,7 @@ interaction-Hug-success-target-popup = {THE($user)} обнимает вас.
 interaction-Hug-success-others-popup = {THE($user)} обнимает {THE($target)}.
 
 interaction-Pet-name = Гладить
-interaction-Pet-description = Погладьте своего коллегу, что бы снять с него стресс.
+interaction-Pet-description = Погладьте своего коллегу по работе, что бы снять с него стресс.
 interaction-Pet-success-self-popup = Вы гладите {THE($target)} по {POSS-ADJ($target)} голове.
 interaction-Pet-success-target-popup = {THE($user)} гладит вас.
 interaction-Pet-success-others-popup = {THE($user)} гладит {THE($target)}.
